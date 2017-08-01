@@ -1,0 +1,33 @@
+color:
+  brandColors:
+    - '#2E0927'
+    - '#D90000'
+    - '#FF2D00'
+    - '#FF8C00'
+    - '#04756F'
+  brandStrength: 0.7076633032411337
+  lightness: 0.2227152467239648
+  saturation: 0.5122302803210914
+  rhythmicContrast: 0.42915873881429434
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: Free Safety Vests
+layout_spectrum: 0.9080321728251874
+typography_spectrum: 0.6161660018842667
+content: []
+title: Freesafetyvests.com
+description: 'Free safety vests '
+purpose:
+  - type: contact
+    url: 'mailto:info@customsafetyvests.com'
+    label: Contact me
+github: true
+author:
+  name: Property of Direct Digital Manufacturing Services LLC
+  email: info@freesafetyvests.com
+  url: 'http://freesafetyvests.com'
